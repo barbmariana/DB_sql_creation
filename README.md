@@ -35,7 +35,7 @@ Para alunos, os atributos definidos foram nome e email como varchar e id como in
 Foram definidas três chaves estrangeiras que fazem as ligações entre entidades. Aluno recebe uma FK turma_id que se relaciona com o id de turmas. Turmas recebe curso_id e professor_id que se relaciona com os ids das entidades cursos e professor. 
 
 <div>
-  <h1 style:'textAlign=center'> Meu Diagrama </h1>
+  <h1 style='textAlign:center'> Meu Diagrama </h1>
 </img src='./fotoDiagrama.png'>
 </div>
 
