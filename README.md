@@ -1,4 +1,4 @@
-# Banco_de_Dados_M4_resilia
+# Creating Database SQL
 
 Creating a database for a web development class (Resilia) project. 
 
